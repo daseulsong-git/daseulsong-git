@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daseul_Github&fontSize=90" />
 
 <h2>
-📚 STAKCS 📚
+📚 STAKCS
 </h2>
   <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -33,7 +33,7 @@
 </div>
 
 <h2>
-🔧 TOOLS 🔧
+🔧 TOOLS
 </h2>
   <div> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
